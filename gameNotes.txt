@@ -1,0 +1,10 @@
+ninja land
+welcom page with instruction
+level1- ninja trying to avoid lava pond,cactus plants,blades
+collect potions&coins
+
+step1-look for images suitable for the game
+	downlod ones without a background/use remove.bg to remove the background
+step2-create an images folder and rename the images
+
+step3-setup the welcome screen 
